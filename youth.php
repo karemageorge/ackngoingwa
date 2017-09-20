@@ -41,7 +41,8 @@
     <div class="uk-grid" data-uk-grid-match data-uk-grid-margin>
         <div class="tm-main uk-width-medium-3-4 tm-middle">
             <main class="tm-content">
-                <section>
+			
+                <section>	
                     <div id="primary" class="site-content post-content">
                         <div id="content" role="main">
                             <div class="tm-post-heading">
@@ -51,6 +52,7 @@
                                 <h3>YOUTH MINISTRY</h3>
                                 <span class="tm-grey-color">15 Jul 2015</span>
                                 <br>
+								
                                 <div class="clr"></div>
                             </div>
 	
