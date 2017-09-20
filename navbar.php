@@ -109,8 +109,28 @@
 										</div>
 									</div>
 								</li>
-								<li>
-										<a href="blog.php" class="">MINISTRY</a>
+								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
+										<a href="ministry.php" class="">MINISTRY</a>
+											<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1">
+										<div class="uk-grid uk-dropdown-grid">
+											<div class="uk-width-1-1">
+												<ul class="uk-nav uk-nav-navbar">
+													<li>
+														<a href="youth.php" class="">YOUTH MINISTRY</a>
+													</li>
+													<li>
+														<a href="#" class="">KAMA</a>
+													</li>
+													<li>
+														<a href="#" class="">MOTHERS UNION</a>
+													</li>
+													<li>
+														<a href="#" class="">TEENS</a>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</div>
 									</li>
 									<li>
 										<a href="sermons.php" class="">SERMONS</a>
