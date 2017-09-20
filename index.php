@@ -39,8 +39,8 @@ ul li{
 										<div class=" tm-wrap">
 											<div class="tm-slide-style-1 uk-width-1-1">
 												<div class="">
-													<div class="imageslider-background"><h3 class="slide-head">Responsive Church</h3></div><br>
-													<div class="imageslider-background"><h3 class="slide-head">HTML Theme</h3></div>
+													<div class="imageslider-background"><h3 class="slide-head">St. STEPHENS NGOINGWA</h3></div><br>
+													<div class="imageslider-background"><h3 class="slide-head">ACK Church</h3></div>
 												</div>
 												<a href="sermons.html" class="tm-imageslider-button color-light">More&nbsp;<i class="uk-icon-long-arrow-right"></i></a>
 											</div>
@@ -56,8 +56,8 @@ ul li{
 										<div class=" tm-wrap">
 											<div class="tm-slide-style-2 uk-width-1-1">
 												<div class="">
-													<div class="imageslider-background"><h3 class="slide-head">Responsive Church</h3></div><br>
-													<div class="imageslider-background"><h3 class="slide-head">HTML Theme</h3></div>
+													<div class="imageslider-background"><h3 class="slide-head">St. STEPHENS NGOINGWA</h3></div><br>
+													<div class="imageslider-background"><h3 class="slide-head">ACK Church</h3></div>
 												</div>
 												<a href="sermons.html" class="tm-imageslider-button color-light">More&nbsp;<i class="uk-icon-long-arrow-right"></i></a>
 											</div>
@@ -367,8 +367,8 @@ ul li{
         <section class="uk-grid-collapse tm-top-c uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
             <div class="uk-width-1-1">
                 <div class="uk-panel widget_text">
-                    <img class="tm-img-center" src="./images/image-002.jpg" alt="image-002.jpg">
-                    <h1 class="tm-title tm-text-center tm-p-top-medium">
+                    <img class="tm-img-center" src="./images/about.jpg" alt="image-002.jpg">
+                    <h1 class="tm-title tm-text-center tm-p-top-medium" height="300">
                         <span class="border">About</span>
                     </h1>
                     <div class="tm-text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae lectus urna. Praesent ut sodales quam. Curabitur lobortis tincidunt facilisis. Suspendisse et malesuada justo, et consequat sapien. Etiam at consectetur augue. Donec id orci imperdiet, tincidunt lectus at, commodo lacus. Aliquam erat volutpat. Proin eu viverra leo. Aliquam rutrum tincidunt nibh vitae sollicitudin. Donec in purus eu sem pellentesque tincidunt. Sed ornare ante id ullamcorper suscipit. Phasellus purus dui, maximus ac sem sodales, pretium faucibus magna.</div>
@@ -575,7 +575,7 @@ only say the word and my servant will be healed."
     </div>
 </div>
 
-<div class="tm-top-f-box tm-light-bg">
+<!-- <div class="tm-top-f-box tm-light-bg">
     <section class="tm-top-f uk-grid tm-none-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
         <div class="uk-width-1-1">
             <div class="uk-panel CutePostGallery">
@@ -668,7 +668,7 @@ only say the word and my servant will be healed."
             </div>
         </div>
     </section>
-</div>
+</div> -->
 
 <!--Blog and fAQ section out
 <div class="tm-top-g-box tm-light-bg">
@@ -853,6 +853,68 @@ only say the word and my servant will be healed."
         </section>
     </div>
 </div>-->
+<div class="tm-bottom-e-box tm-light-bg">
+    <section class="tm-bottom-e uk-grid tm-none-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin>
+        <div class="uk-width-1-1">
+            <div class="uk-panel widget_text" >
+                <div class="map-wrap">
+                    <script>
+                        window.map = false;
+                        window.marker = './images/map-marker.png';
+                                                
+                        function create_marker(marker_data){
+                            var infowindow = new google.maps.InfoWindow({
+                                content: '<div class="map-marker-content">'+
+                                        '<h3>'+marker_data.header+'</h3>'+
+                                        '<p class="address">'+marker_data.address+'</p>'+
+                                        '<p class="address_2">'+marker_data.address_2+'</p>'+
+                                    '</div>'
+                            });
+                            var marker = new google.maps.Marker({
+                                position: new google.maps.LatLng(marker_data.lat,marker_data.lng),
+                                map: window.map,
+                                title: marker_data.header,
+                                icon:window.marker
+                            });
+                            google.maps.event.addListener(marker, 'click', function() {
+                                infowindow.open(window.map,marker);
+                            });
+                        }
+                                                
+                        function initialize(){
+                            var myLatlng = new google.maps.LatLng(50.3915097,-4.1306689);
+                        
+                            var mapOptions = {
+                                zoom:16,
+                                center: myLatlng,
+                                mapTypeId: google.maps.MapTypeId.ROADMAP,
+                                scrollwheel: false,
+
+                                streetViewControl:false,
+                                overviewMapControl:false,
+                                mapTypeControl:false    
+                                
+                            };
+                            
+                            window.map = new google.maps.Map(document.getElementById('map'), mapOptions);                                                                                                                                                                                                                                                                               create_marker({
+                                header:'Cute Curch',
+                                address:'Mannamead Road, Plymouth PL3 5QJ',
+                                address_2:'another info',
+
+                                lat:50.3915097,
+                                lng:-4.1306689
+                            });
+                            
+                        }
+                    
+                        google.maps.event.addDomListener(window, 'load', initialize);
+            </script>
+                    <div id="map"></div>
+                </div>   
+            </div>
+        </div>
+    </section>
+</div>
 
 <div class="uk-container uk-container-center"></div>
 
@@ -997,7 +1059,7 @@ only say the word and my servant will be healed."
     </section>
 </div>
 
-<div class="tm-bottom-c-box tm-light-bg">
+<!-- <div class="tm-bottom-c-box tm-light-bg">
     <div class="uk-container uk-container-center">
         <section class="tm-bottom-c uk-grid tm-large-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
             <div class="uk-width-1-1">
@@ -1141,9 +1203,9 @@ only say the word and my servant will be healed."
             </div>
         </section>
     </div>
-</div>
+</div>  -->
 
-<div class="tm-bottom-d-box tm-dark-bg">
+<!-- <div class="tm-bottom-d-box tm-dark-bg">
     <section class="tm-bottom-d uk-grid tm-none-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin>
         <div class="uk-width-1-1">
             <div class="uk-panel CutePartners" >
@@ -1165,7 +1227,7 @@ only say the word and my servant will be healed."
             </div>
         </div>
     </section>
-</div>
+</div> -->
 <div class="tm-bottom-e-box tm-light-bg">
     <section class="tm-bottom-e uk-grid tm-none-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin>
         <div class="uk-width-1-1">
@@ -1229,7 +1291,7 @@ only say the word and my servant will be healed."
     </section>
 </div>
 
-<div class="tm-bottom-f-box tm-default-bg">
+<!--<div class="tm-bottom-f-box tm-default-bg">
     <div class="uk-container uk-container-center">
         <section class="tm-bottom-f uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin>
             <div class="uk-width-1-1">
@@ -1247,7 +1309,7 @@ only say the word and my servant will be healed."
             </div>
         </section>
     </div>
-</div>
+</div>-->
 
 <?php include('footer.php')?>
 
