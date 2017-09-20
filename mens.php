@@ -45,14 +45,16 @@
                 <section>	
                     <div id="primary" class="site-content post-content">
                         <div id="content" role="main">
+						 
                             <div class="tm-post-heading">
                                 <span class="tm-circle-small-border">
-                      				<img width="100" height="100" src="./images/ACK_Mothers_Union_Logo.jpg" class="attachment-post-small-circular-thumbnails wp-post-image" alt="slider-img-07" />                  
+                      				<img width="100" height="100" src="./images/slider-img-07-100x100.jpg" class="attachment-post-small-circular-thumbnails wp-post-image" alt="slider-img-07" />                  
                   				</span>
-                                <h3>Mothers Union</h3>
+								
+                                <h3>MEN MINISTRY</h3>
                                 <span class="tm-grey-color">15 Jul 2015</span>
                                 <br>
-								<img class="tm-img-center" src="./images/Mothers-Union-President-976x350.jpg" alt="image-002.jpg" height="100">
+								<img class="tm-img-center" src="./images/MENSFELLOWSHIP.jpg" alt="image-002.jpg" height="100">
                                 <div class="clr"></div>
                             </div>
 	
@@ -99,17 +101,20 @@
             <div class="uk-panel DisplayCategoriesWidget">
                 <h3 class="uk-panel-title">Categories</h3>
                 <ul class='dcw'>
-                    <li class="cat-item cat-item-46"><a href="blog.html">Youth Ministry</a> (1)
+                    <li class="cat-item cat-item-46"><a href="blog.html">Advertisement</a> (1)
                     </li>
-                    <li class="cat-item cat-item-47"><a href="blog.html">Men </a> (1)
+                    <li class="cat-item cat-item-47"><a href="blog.html">Faith</a> (1)
                     </li>
-                    <li class="cat-item cat-item-48"><a href="blog.html">TEENS</a> (1)
+                    <li class="cat-item cat-item-48"><a href="blog.html">Hobbies</a> (1)
                     </li>
-                    <li class="cat-item cat-item-50"><a href="blog.html">Children Ministry</a> (1)
+                    <li class="cat-item cat-item-50"><a href="blog.html">Love</a> (1)
                     </li>
-                    <li class="cat-item cat-item-51"><a href="blog.html">Evangelism</a> (1)
+                    <li class="cat-item cat-item-51"><a href="blog.html">Masonry</a> (1)
                     </li>
-                  
+                    <li class="cat-item cat-item-49"><a href="blog.html">Personal</a> (1)
+                    </li>
+                    <li class="cat-item cat-item-1"><a href="blog.html">Uncategorised</a> (4)
+                    </li>
                 </ul>
             </div>
             <div class="uk-panel widget_tag_cloud">

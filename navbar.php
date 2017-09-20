@@ -119,7 +119,7 @@
 														<a href="youth.php" class="">YOUTH MINISTRY</a>
 													</li>
 													<li>
-														<a href="#" class="">KAMA</a>
+														<a href="mens.php" class="">KAMA</a>
 													</li>
 													<li>
 														<a href="mothers_union.php" class="">MOTHERS UNION</a>

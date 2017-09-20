@@ -82,13 +82,13 @@
                                                 </div>
                                                 <!-- Event Image -->
                                                 <div class="tribe-events-event-image">
-                                                    <a href="event.html"><img width="198" height="330" src="./images/slider-img-01-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="slider-img-01" />
+                                                    <a href="event.php"><img width="198" height="330" src="./images/slider-img-01-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="slider-img-01" />
                                                     </a>
                                                 </div>
                                                 <!-- Event Title -->
                                                 <div class="tm-event-list-content-info">
                                                     <h2 class="tribe-events-list-event-title entry-title summary">
-														<a class="url" href="event.html" title="Class: Biblical vision of Justice" rel="bookmark">Class: Biblical vision of Justice</a>
+														<a class="url" href="event.php" title="Class: Biblical vision of Justice" rel="bookmark">Class: Biblical vision of Justice</a>
 													</h2> 
 													Luctus nisi, nec sagittis diam molestie eget. Nullam posuere id arcu eu vestibulum. Duis diam tortor, bibendum eleifend eros vel, viverra consectetur nunc &#8230; <a href="event.html" class="read-more" rel="bookmark">Read more &raquo;</a>
                                                     <div class="clr"></div>
@@ -123,15 +123,15 @@
                                                 </div>
                                                 <!-- Event Image -->
                                                 <div class="tribe-events-event-image">
-                                                    <a href="event.html"><img width="198" height="330" src="./images/gall-img-006-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="NEWS" />
+                                                    <a href="event.php"><img width="198" height="330" src="./images/gall-img-006-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="NEWS" />
                                                     </a>
                                                 </div>
                                                 <!-- Event Title -->
                                                 <div class="tm-event-list-content-info">
                                                     <h2 class="tribe-events-list-event-title entry-title summary">
-														<a class="url" href="event.html" title="Art lessons for Kids" rel="bookmark">Art lessons for Kids</a>
+														<a class="url" href="event.php" title="Art lessons for Kids" rel="bookmark">Art lessons for Kids</a>
 													</h2> 
-														Nunc rutrum lacus sed sem dictum, sit amet facilisis magna euismod. Nam tincidunt nisi a nisl rhoncus, ac viverra dolor turpis at lacus suscipit &#8230; <a href="event.html" class="read-more" rel="bookmark">Read more &raquo;</a>
+														Nunc rutrum lacus sed sem dictum, sit amet facilisis magna euismod. Nam tincidunt nisi a nisl rhoncus, ac viverra dolor turpis at lacus suscipit &#8230; <a href="event.php" class="read-more" rel="bookmark">Read more &raquo;</a>
                                                     <div class="clr"></div>
                                                 </div>
                                             </div>
@@ -164,15 +164,15 @@
                                                 </div>
                                                 <!-- Event Image -->
                                                 <div class="tribe-events-event-image">
-                                                    <a href="event.html"><img width="198" height="330" src="./images/gall-img-011-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="gall-img-011" />
+                                                    <a href="event.php"><img width="198" height="330" src="./images/gall-img-011-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="gall-img-011" />
                                                     </a>
                                                 </div>
                                                 <!-- Event Title -->
                                                 <div class="tm-event-list-content-info">
                                                     <h2 class="tribe-events-list-event-title entry-title summary">
-														<a class="url" href="event.html" title="I am going to send you what" rel="bookmark">I am going to send you what</a>
+														<a class="url" href="event.php" title="I am going to send you what" rel="bookmark">I am going to send you what</a>
 														</h2> 
-														In sollicitudin, ipsum nec auctor malesuada, elit turpis fermentum odio, ac vestibulum dui risus non elit. Quisque varius ex arcu, vitae rhoncus justo lacinia ac. Nunc eu bibendum mauri tinc &#8230; <a href="event.html" class="read-more" rel="bookmark">Read more &raquo;</a>
+														In sollicitudin, ipsum nec auctor malesuada, elit turpis fermentum odio, ac vestibulum dui risus non elit. Quisque varius ex arcu, vitae rhoncus justo lacinia ac. Nunc eu bibendum mauri tinc &#8230; <a href="event.php" class="read-more" rel="bookmark">Read more &raquo;</a>
                                                     <div class="clr"></div>
                                                 </div>
                                             </div>
@@ -205,15 +205,15 @@
                                                 </div>
                                                 <!-- Event Image -->
                                                 <div class="tribe-events-event-image">
-                                                    <a href="event.html"><img width="198" height="330" src="./images/gall-img-0081-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="GALLERY" />
+                                                    <a href="event.php"><img width="198" height="330" src="./images/gall-img-0081-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="GALLERY" />
                                                     </a>
                                                 </div>
                                                 <!-- Event Title -->
                                                 <div class="tm-event-list-content-info">
                                                     <h2 class="tribe-events-list-event-title entry-title summary">
-														<a class="url" href="event.html" title="All church humn sing" rel="bookmark">All church humn sing</a>
+														<a class="url" href="event.php" title="All church humn sing" rel="bookmark">All church humn sing</a>
 													</h2> 
-													Suspendisse eu odio turpis. Proin iaculis metus eu ipsum ullamcorper, vel luctus dui iaculis. Nam sodales finibus diam id scelerisque nullam &#8230; <a href="event.html" class="read-more" rel="bookmark">Read more &raquo;</a>
+													Suspendisse eu odio turpis. Proin iaculis metus eu ipsum ullamcorper, vel luctus dui iaculis. Nam sodales finibus diam id scelerisque nullam &#8230; <a href="event.php" class="read-more" rel="bookmark">Read more &raquo;</a>
                                                     <div class="clr"></div>
                                                 </div>
                                             </div>
@@ -246,16 +246,16 @@
                                                 </div>
                                                 <!-- Event Image -->
                                                 <div class="tribe-events-event-image">
-                                                    <a href="event.html"><img width="198" height="330" src="./images/gall-img-0041-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="EVENTS" />
+                                                    <a href="event.php"><img width="198" height="330" src="./images/gall-img-0041-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="EVENTS" />
                                                     </a>
                                                 </div>
                                                 <!-- Event Title -->
                                                 <div class="tm-event-list-content-info">
                                                     <h2 class="tribe-events-list-event-title entry-title summary">
-														<a class="url" href="event.html" title="Holy shift: Strategic think" rel="bookmark">Holy shift: Strategic think</a>
+														<a class="url" href="event.php" title="Holy shift: Strategic think" rel="bookmark">Holy shift: Strategic think</a>
 													</h2> 
 														Aenean imperdiet luctus nisi, nec sagittis diam molestie id arcu eu vestibulum. Duis diam tortor, bibendum eleifend eros vel, viverra consectetur nunc &#8230; 
-														<a href="event.html" class="read-more" rel="bookmark">Read more &raquo;</a>
+														<a href="event.php" class="read-more" rel="bookmark">Read more &raquo;</a>
                                                     <div class="clr"></div>
                                                 </div>
                                             </div>
@@ -365,27 +365,27 @@
             <div class="uk-panel CuteEventGallery">
                 <h3 class="uk-panel-title">Event Photos</h3>
                 <div class="tm-widget-post-image">
-                    <a href="gallery.html"><img width="82" height="70" src="./images/gall-img-011-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="gall-img-011" />
+                    <a href="gallery.php"><img width="82" height="70" src="./images/gall-img-011-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="gall-img-011" />
                     </a>
                 </div>
                 <div class="tm-widget-post-image">
-                    <a href="gallery.html"><img width="82" height="70" src="./images/gall-img-0031-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="NEWS" />
+                    <a href="gallery.php"><img width="82" height="70" src="./images/gall-img-0031-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="NEWS" />
                     </a>
                 </div>
                 <div class="tm-widget-post-image">
-                    <a href="gallery.html"><img width="82" height="70" src="./images/gall-img-006-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="NEWS" />
+                    <a href="gallery.php"><img width="82" height="70" src="./images/gall-img-006-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="NEWS" />
                     </a>
                 </div>
                 <div class="tm-widget-post-image">
-                    <a href="gallery.html"><img width="82" height="70" src="./images/gall-img-0041-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="EVENTS" />
+                    <a href="gallery.php"><img width="82" height="70" src="./images/gall-img-0041-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="EVENTS" />
                     </a>
                 </div>
                 <div class="tm-widget-post-image">
-                    <a href="gallery.html"><img width="82" height="70" src="./images/gall-img-0081-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="GALLERY" />
+                    <a href="gallery.php"><img width="82" height="70" src="./images/gall-img-0081-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="GALLERY" />
                     </a>
                 </div>
                 <div class="tm-widget-post-image">
-                    <a href="gallery.html"><img width="82" height="70" src="./images/slider-img-01-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="slider-img-01" />
+                    <a href="gallery.php"><img width="82" height="70" src="./images/slider-img-01-82x70.jpg" class="attachment-post-small-thumbnails wp-post-image" alt="slider-img-01" />
                     </a>
                 </div>
             </div>
@@ -405,69 +405,69 @@
             </form>
         </div>
         <ul class="uk-nav uk-nav-offcanvas">
-            <li class="uk-parent"><a href="index.html" class="">HOME</a>
+            <li class="uk-parent"><a href="index.php" class="">HOME</a>
                 <ul class="uk-nav-sub">
-                    <li><a href="index-home2.html" class="">HOME 2</a>
+                    <li><a href="index-home2.php" class="">HOME 2</a>
                     </li>
-                    <li><a href="index-home3.html" class="">HOME 3</a>
+                    <li><a href="index-home3.php" class="">HOME 3</a>
                     </li>
-                    <li><a href="../chocolate/index.html" class="">CHOCOLATE STYLE</a>
+                    <li><a href="../chocolate/index.php" class="">CHOCOLATE STYLE</a>
                     </li>
-                    <li><a href="../blue/index.html" class="">GREEN STYLE</a>
+                    <li><a href="../blue/index.php" class="">GREEN STYLE</a>
                     </li>
-                    <li><a href="../green/index.html" class="">BLUE STYLE</a>
+                    <li><a href="../green/index.php" class="">BLUE STYLE</a>
                     </li>
                 </ul>
             </li>
-            <li class="uk-parent"><a href="about-us.html" class="">ABOUT US</a>
+            <li class="uk-parent"><a href="about-us.php" class="">ABOUT US</a>
                 <ul class="uk-nav-sub">
-                    <li><a href="layouts.html" class="">LAYOUTS</a>
+                    <li><a href="layouts.php" class="">LAYOUTS</a>
                     </li>
-                    <li><a href="offline.html" class="">MAINTENANCE</a>
+                    <li><a href="offline.php" class="">MAINTENANCE</a>
                     </li>
-                    <li><a href="coming.html" class="">COMING SOON</a>
+                    <li><a href="coming.php" class="">COMING SOON</a>
                     </li>
-                    <li><a href="error.html" class="">ERROR PAGE</a>
+                    <li><a href="error.php" class="">ERROR PAGE</a>
                     </li>
-                    <li><a href="single-article.html" class="">SINGLE ARTICLE</a>
+                    <li><a href="single-article.php" class="">SINGLE ARTICLE</a>
                     </li>
-                    <li><a href="left-content.html" class="">LEFT + CONTENT</a>
+                    <li><a href="left-content.php" class="">LEFT + CONTENT</a>
                     </li>
-                    <li><a href="left-right-content.html" class="">LEFT + RIGHT + CONTENT</a>
+                    <li><a href="left-right-content.php" class="">LEFT + RIGHT + CONTENT</a>
                     </li>
-                    <li><a href="left-content-right.html" class="">LEFT + CONTENT + RIGHT</a>
+                    <li><a href="left-content-right.php" class="">LEFT + CONTENT + RIGHT</a>
                     </li>
-                    <li><a href="content-right.html" class="">CONTENT + RIGHT</a>
+                    <li><a href="content-right.php" class="">CONTENT + RIGHT</a>
                     </li>
-                    <li><a href="content-left-right.html" class="">CONTENT + LEFT + RIGHT</a>
+                    <li><a href="content-left-right.php" class="">CONTENT + LEFT + RIGHT</a>
                     </li>
                 </ul>
             </li>
-            <li class="uk-parent"><a href="event.html" class="">EVENT</a>
+            <li class="uk-parent"><a href="event.php" class="">EVENT</a>
                 <ul class="uk-nav-sub">
-                    <li><a href="event-list.html" class="">EVENT LIST</a>
+                    <li><a href="event-list.php" class="">EVENT LIST</a>
                     </li>
                 </ul>
             </li>
-            <li><a href="sermons.html" class="">SERMONS</a>
+            <li><a href="sermons.php" class="">SERMONS</a>
             </li>
-            <li class="uk-parent"><a href="blog.html" class="">BLOG</a>
+            <li class="uk-parent"><a href="blog.php" class="">BLOG</a>
                 <ul class="uk-nav-sub">
-                    <li><a href="our-pastors.html" class="">OUR PASTORS</a>
+                    <li><a href="our-pastors.php" class="">OUR PASTORS</a>
                     </li>
-                    <li><a href="testimonials.html" class="">TESTIMONIALS</a>
+                    <li><a href="testimonials.php" class="">TESTIMONIALS</a>
                     </li>
-                    <li><a href="faq.html" class="">HELP</a>
+                    <li><a href="faq.php" class="">HELP</a>
                     </li>
                 </ul>
             </li>
-            <li><a href="gallery.html" class="">GALLERY</a>
+            <li><a href="gallery.php" class="">GALLERY</a>
             </li>
-            <li><a href="donations.html" class="">DONATIONS</a>
+            <li><a href="donations.php" class="">DONATIONS</a>
             </li>
-            <li><a href="shop.html" class="">SHOP</a>
+            <li><a href="shop.php" class="">SHOP</a>
             </li>
-            <li><a href="contact-us.html" class="">CONTACT US</a>
+            <li><a href="contact-us.php" class="">CONTACT US</a>
             </li>
         </ul>
     </div>

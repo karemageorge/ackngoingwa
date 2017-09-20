@@ -233,7 +233,7 @@ ul li{
                         </li></br>
                         <li class="">
 						<div class ="uk-width-1-1 tm-middle">
-						<a href="event-list.html" rel="bookmark" class="tm-event-widget-button">All Events</a>
+						<a href="event-list.php" rel="bookmark" class="tm-event-widget-button">All Events</a>
 						</div></li>
                     </ul>
                 </div>
@@ -252,110 +252,134 @@ ul li{
                 <div class="uk-panel CuteEvents">
                     <div class="tm-widget-top-text">
                         <h1 class="tm-title tcenter">
-                            <span class="border">Events</span>
+                            <span class="border">Order of Services</span>
                         </h1>
 						In sollicitudin, ipsum nec auctor malesuada, elit turpis fermentum odio, ac vestibulum dui risus non elit. Quisque varius ex arcu, vitae rhoncus justo lacinia ac. Nunc eu bibendum mauris, et tincidunt ex. Duis non aliquam nibh.
                     </div>
                     <div class="uk-grid uk-grid-collapse">
                         <ul class="tm-category-posts-block">
-                            <li class="uk-width-small-1-1 uk-width-medium-1-2 tribe-events-list-widget-events hentry vevent type-tribe_events post-857 tribe-clearfix">
+                               <li class="uk-width-small-1-1 uk-width-medium-1-2 tribe-events-list-widget-events hentry vevent type-tribe_events post-857 tribe-clearfix">
                                 <div class="tribe-events-event-image">
-                                	<a href="event.html">
-                                    	<img src="./images/gall-img-011-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="gall-img-011" height="330" width="198">
+                                    <a href="event.php">
+                                        <img src="./images/Flickering_candle_9b44d2e1-c319-425f-96dc-516e274dda74_large_large.gif" class="attachment-thumbnail wp-post-image" alt="EVENTS" height="330" width="198">
                                     </a>
                                 </div>
                                 <div class="post-date">
                                     <div class="day">
-                                        <span>12</span>
-                                        <p>May</p>
+                                        <span>7:00 am</span>
+                                        <!--<p>Jun</p>-->	
                                     </div>
                                     <div class="time">
-                                        <p>8:30 am</p>
-                                        <p class="tm-event-venue">Church of Jesus Christ</p>
+                                       <p>8:00 AM</p>
+                                        <p class="tm-event-venue"><h2>Morning Devotion</h2></p>
                                     </div>
                                 </div>
                                 <div style="padding: 20px;">
                                     <h3 class="uk-panel-header">
-                                        <a href="event.html">I am going to send you what</a>
-                                    </h3>
-                            		In sollicitudin, ipsum nec auctor malesuada, elit turpis fermentum odio, ac vestibulum dui risus non…                                
-                                    <a href="event.html" class="read-more" rel="bookmark">Read more</a>
-                                </div>
-                            </li>
-                            <li class="uk-width-small-1-1 uk-width-medium-1-2 tribe-events-list-widget-events hentry vevent type-tribe_events post-857 tribe-clearfix">
-                                <div class="tribe-events-event-image">
-                                    <a href="event.html">
-                                        <img src="./images/gall-img-0031-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="NEWS" height="330" width="198">
-                                    </a>
-                                </div>
-                                <div class="post-date">
-                                    <div class="day">
-                                        <span>15</span>
-                                        <p>Jun</p>
-                                    </div>
-                                    <div class="time">
-                                        <p>8:00 am</p>
-                                        <p class="tm-event-venue">Bethlehem Church</p>
-                                    </div>
-                                </div>
-                                <div style="padding: 20px;">
-                                    <h3 class="uk-panel-header">
-                                        <a href="event.html">Child Dedications</a>
-                                    </h3>
-                       				 Etiam risus mauris, fermentum sit amet metus ut, vulputate ullamcorper est. Aenean ac turpis dui.…                                
-                                    <a href="event.html" class="read-more" rel="bookmark">Read more</a>
-                                </div>
-                            </li>
-                            <li class="uk-width-small-1-1 uk-width-medium-1-2 tribe-events-list-widget-events hentry vevent type-tribe_events post-857 tribe-clearfix">
-                                <div class="tribe-events-event-image">
-                                    <a href="event.html">
-                                        <img src="./images/gall-img-006-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="NEWS" height="330" width="198">
-                                    </a>
-                                </div>
-                                <div class="post-date">
-                                    <div class="day">
-                                        <span>10</span>
-                                        <p>Mar</p>
-                                    </div>
-                                    <div class="time">
-                                        <p>8:00 am</p>
-                                        <p class="tm-event-venue">Bethlehem Church</p>
-                                    </div>
-                                </div>
-                                <div style="padding: 20px;">
-                                    <h3 class="uk-panel-header">
-                                        <a href="event.html">Art lessons for Kids</a>
-                                    </h3>
-                    				Nullam at varius nulla. Proin ut scelerisque ipsum. Aliquam in mattis leo. In fringilla accumsan…                                
-                                    <a href="event.html" class="read-more" rel="bookmark">Read more</a>
-                                </div>
-                            </li>
-                            <li class="uk-width-small-1-1 uk-width-medium-1-2 tribe-events-list-widget-events hentry vevent type-tribe_events post-857 tribe-clearfix">
-                                <div class="tribe-events-event-image">
-                                    <a href="event.html">
-                                        <img src="./images/gall-img-0041-198x330.jpg" class="attachment-thumbnail wp-post-image" alt="EVENTS" height="330" width="198">
-                                    </a>
-                                </div>
-                                <div class="post-date">
-                                    <div class="day">
-                                        <span>14</span>
-                                        <p>Jun</p>
-                                    </div>
-                                    <div class="time">
-                                        <p>8:00 am</p>
-                                        <p class="tm-event-venue">Bethlehem Church</p>
-                                    </div>
-                                </div>
-                                <div style="padding: 20px;">
-                                    <h3 class="uk-panel-header">
-                                        <a href="event.html">Holy shift: Strategic think</a>
+                                        <a href="event.php">Holy shift: Strategic think</a>
                                     </h3>
                 					Praesent lobortis, tellus vel placerat iaculis, neque leo tempus nisi, vitae gravida mi elit gravida…                                
-                                    <a href="event.html" class="read-more" rel="bookmark">Read more</a>
+                                    <a href="event.php" class="read-more" rel="bookmark">Read more</a>
                                 </div>
-                         
+                         </li>
+                            <li class="uk-width-small-1-1 uk-width-medium-1-2 tribe-events-list-widget-events hentry vevent type-tribe_events post-857 tribe-clearfix">
+                                <div class="tribe-events-event-image">
+                                    <a href="event.php">
+                                        <img src="./images/salvation-march.jpg" class="attachment-thumbnail wp-post-image" alt="EVENTS" height="330" width="198">
+                                    </a>
+                                </div>
+                                <div class="post-date">
+                                    <div class="day">
+                                        <span>8:30 am</span>
+                                        <!--<p>Jun</p>-->	
+                                    </div>
+                                    <div class="time">
+                                       <p>8:00 AM</p>
+                                        <p class="tm-event-venue"><h2>English Service</h2></p>
+                                    </div>
+                                </div>
+                                <div style="padding: 20px;">
+                                    <h3 class="uk-panel-header">
+                                        <a href="event.php">Holy shift: Strategic think</a>
+                                    </h3>
+                					Praesent lobortis, tellus vel placerat iaculis, neque leo tempus nisi, vitae gravida mi elit gravida…                                
+                                    <a href="event.php" class="read-more" rel="bookmark">Read more</a>
+                                </div>
+                         </li>
+                               <li class="uk-width-small-1-1 uk-width-medium-1-2 tribe-events-list-widget-events hentry vevent type-tribe_events post-857 tribe-clearfix">
+                                <div class="tribe-events-event-image">
+                                    <a href="event.php">
+                                        <img src="./images/Screen-Shot-2014-08-08-at-11.41.30-AM-500x326.jpg" class="attachment-thumbnail wp-post-image" alt="EVENTS" height="330" width="198">
+                                    </a>
+                                </div>
+                                <div class="post-date">
+                                    <div class="day">
+                                        <span>8:30 am</span>
+                                        <!--<p>Jun</p>-->	
+                                    </div>
+                                    <div class="time">
+                                       <p>Sunday</p>
+                                        <p class="tm-event-venue"><h2>Bible Study</h2></p>
+                                    </div>
+                                </div>
+                                <div style="padding: 20px;">
+                                    <h3 class="uk-panel-header">
+                                        <a href="event.php">Holy shift: Strategic think</a>
+                                    </h3>
+                					Praesent lobortis, tellus vel placerat iaculis, neque leo tempus nisi, vitae gravida mi elit gravida…                                
+                                    <a href="event.php" class="read-more" rel="bookmark">Read more</a>
+                                </div>
+                         </li>
+                            <li class="uk-width-small-1-1 uk-width-medium-1-2 tribe-events-list-widget-events hentry vevent type-tribe_events post-857 tribe-clearfix">
+                                <div class="tribe-events-event-image">
+                                    <a href="event.php">
+                                        <img src="./images/1000-southaftrica.jpg" class="attachment-thumbnail wp-post-image" alt="EVENTS" height="330" width="198">
+                                    </a>
+                                </div>
+                                <div class="post-date">
+                                    <div class="day">
+                                        <span>8:00 am</span>
+                                        <!--<p>Jun</p>-->	
+                                    </div>
+                                    <div class="time">
+                                       <p>8:00 AM</p>
+                                        <p class="tm-event-venue"><h2>Sunday School</h2></p>
+                                    </div>
+                                </div>
+                                <div style="padding: 20px;">
+                                    <h3 class="uk-panel-header">
+                                        <a href="event.php">Holy shift: Strategic think</a>
+                                    </h3>
+                					Praesent lobortis, tellus vel placerat iaculis, neque leo tempus nisi, vitae gravida mi elit gravida…                                
+                                    <a href="event.php" class="read-more" rel="bookmark">Read more</a>
+                                </div>
+                         </li>
+						 <li class="uk-width-small-1-1 uk-width-medium-1-1 tribe-events-list-widget-events hentry vevent type-tribe_events post-857 tribe-clearfix" style=" position:relative; width:100%; align:center;" >
+                                <div class="tribe-events-event-image">
+                                    <a href="event.php">
+                                        <img src="./images/1000-southaftrica.jpg" class="attachment-thumbnail wp-post-image" alt="EVENTS" height="330" width="198">
+                                    </a>
+                                </div>
+                                <div class="post-date">
+                                    <div class="day">
+                                        <span>10:30 am</span>
+                                        <!--<p>Jun</p>-->	
+                                    </div>
+                                    <div class="time">
+                                       <p>8:00 AM</p>
+                                        <p class="tm-event-venue"><h2>Main Service</h2></p>
+                                    </div>
+                                </div>
+                                <div style="padding: 20px;">
+                                    <h3 class="uk-panel-header">
+                                        <a href="event.php">Holy shift: Strategic think</a>
+                                    </h3>
+                					Praesent lobortis, tellus vel placerat iaculis, neque leo tempus nisi, vitae gravida mi elit gravida…                                
+                                    <a href="event.php" class="read-more" rel="bookmark">Read more</a>
+                                </div>
+                         </li>
                     </div>
-                	<a href="event-list.html" rel="bookmark" class="tm-event-widget-button">All Events</a>
+                	<a href="event-list.php" rel="bookmark" class="tm-event-widget-button">All Events</a>
                 </div>
             </div>
         </section>
@@ -367,12 +391,12 @@ ul li{
         <section class="uk-grid-collapse tm-top-c uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
             <div class="uk-width-1-1">
                 <div class="uk-panel widget_text">
-                    <img class="tm-img-center" src="./images/about.jpg" alt="image-002.jpg">
+					
                     <h1 class="tm-title tm-text-center tm-p-top-medium" height="300">
                         <span class="border">About</span>
                     </h1>
                     <div class="tm-text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae lectus urna. Praesent ut sodales quam. Curabitur lobortis tincidunt facilisis. Suspendisse et malesuada justo, et consequat sapien. Etiam at consectetur augue. Donec id orci imperdiet, tincidunt lectus at, commodo lacus. Aliquam erat volutpat. Proin eu viverra leo. Aliquam rutrum tincidunt nibh vitae sollicitudin. Donec in purus eu sem pellentesque tincidunt. Sed ornare ante id ullamcorper suscipit. Phasellus purus dui, maximus ac sem sodales, pretium faucibus magna.</div>
-                    <a href="about-us.html" title="" class="tm-button-center">Read more</a>
+                    <a href="about-us.php" title="" class="tm-button-center">Read more</a>
                 </div>
             </div>
         </section>
@@ -512,7 +536,7 @@ only say the word and my servant will be healed."
                                 </div>
                                 <div class="uk-grid-width-small-1-1 uk-width-medium-1-2 tm-default-bg">
                                     <div class="tm-text-center">
-                                        <a href="donations.html" class="inline-block tm-p-top-medium"><h2>Donation form 5</h2></a>
+                                        <a href="donations.php" class="inline-block tm-p-top-medium"><h2>Donation form 5</h2></a>
                                         <div class="yashare-auto-init" data-yasharel10n="ru" data-yasharetype="none" data-yasharequickservices="facebook,twitter,gplus">
                                             <span class="b-share">
                                                 <a rel="nofollow" target="_blank" title="Facebook" class="b-share__handle b-share__link b-share-btn__facebook" href="#" data-service="facebook">
@@ -691,7 +715,7 @@ only say the word and my servant will be healed."
                             </div>
                             <div class="post-text">
                                 <h3 class="uk-panel-header">
-                                    <a href="blog-single.html">I am going…</a>
+                                    <a href="blog-single.php">I am going…</a>
                                 </h3>
                                 <div>In sollicitudin, ipsum nec auctor malesuada, elit turpis fermentum odio, ac vestibulum dui risus non elit.…</div>
                                 <div class="grey">0 Comments | <span>Posted by: alexander-khmelnitskiy</span>
@@ -710,7 +734,7 @@ only say the word and my servant will be healed."
                             </div>
                             <div class="post-text">
                                 <h3 class="uk-panel-header">
-                                    <a href="blog-single.html">Child Dedications</a>
+                                    <a href="blog-single.php">Child Dedications</a>
                                 </h3>
                                 <div>Etiam risus mauris, fermentum sit amet metus ut, vulputate ullamcorper est. Aenean ac turpis dui. Sed…</div>
                                 <div class="grey">0 Comments | <span>Posted by: alexander-khmelnitskiy</span>
@@ -729,7 +753,7 @@ only say the word and my servant will be healed."
                             </div>
                             <div class="post-text">
                                 <h3 class="uk-panel-header">
-                                    <a href="blog-single.html">Class: Biblical Vision…</a>
+                                    <a href="blog-single.php">Class: Biblical Vision…</a>
                                 </h3>
                                 <div>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc condimentum rhoncus…</div>
                                 <div class="grey">0 Comments | <span>Posted by: alexander-khmelnitskiy</span>
@@ -748,7 +772,7 @@ only say the word and my servant will be healed."
                             </div>
                             <div class="post-text">
                                 <h3 class="uk-panel-header">
-                                    <a href="blog-single.html">All Church Hymn…</a>
+                                    <a href="blog-single.php">All Church Hymn…</a>
                                 </h3>
                                 <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus rhoncus feugiat. Vivamus non aliquam enim,…</div>
                                 <div class="grey">0 Comments | <span>Posted by: alexander-khmelnitskiy</span>
@@ -767,14 +791,14 @@ only say the word and my servant will be healed."
                             </div>
                             <div class="post-text">
                                 <h3 class="uk-panel-header">
-                                    <a href="blog-single.html">Aliquam egestas ullamcorper…</a>
+                                    <a href="blog-single.php">Aliquam egestas ullamcorper…</a>
                                 </h3>
                                 <div>Fusce vitae hendrerit eros. Quisque sodales consequat mi eleifend hendrerit. Cras viverra porta rhoncus. Aliquam luctus…</div>
                                 <div class="grey">3 Comments | <span>Posted by: alexander-khmelnitskiy</span>
                                 </div>
                             </div>
                         </div>
-                        <a href="blog.html" title="Blog" class="tm-button-left">Read more</a>
+                        <a href="blog.php" title="Blog" class="tm-button-left">Read more</a>
                     </div>
                 </div>
             </div>
@@ -1082,7 +1106,7 @@ only say the word and my servant will be healed."
                                         </p>
                                         <h3 class="uk-panel-header">
                                             <span class="brackets">
-                                                <a href="our-pastors.html">Don Nelson</a>
+                                                <a href="our-pastors.php">Don Nelson</a>
                                             </span>
                                         </h3>
                                         <div class="tm-text-center">Nunc finibus laoreet elit. Suspendisse scelerisque, lorem at lacinia tempus, magna augue pulvinar massa, at…</div>
@@ -1097,7 +1121,7 @@ only say the word and my servant will be healed."
                                         </p>
                                         <h3 class="uk-panel-header">
                                             <span class="brackets">
-                                                <a href="our-pastors.html">Rafael Stone</a>
+                                                <a href="our-pastors.php">Rafael Stone</a>
                                             </span>
                                         </h3>
                                         <div class="tm-text-center">Nulla elementum interdum pulvinar. Donec tempor dapibus ipsum, eu pulvinar est consectetur et. Mauris interdum…</div>
@@ -1112,7 +1136,7 @@ only say the word and my servant will be healed."
                                         </p>
                                         <h3 class="uk-panel-header">
                                             <span class="brackets">
-                                                <a href="our-pastors.html">Francisco Caldwell</a>
+                                                <a href="our-pastors.php">Francisco Caldwell</a>
                                             </span>
                                         </h3>
                                         <div class="tm-text-center">Nulla elementum interdum pulvinar. Donec tempor dapibus ipsum, eu pulvinar est consectetur et. Mauris interdum…</div>
@@ -1127,7 +1151,7 @@ only say the word and my servant will be healed."
                                         </p>
                                         <h3 class="uk-panel-header">
                                             <span class="brackets">
-                                                <a href="our-pastors.html">Albert Lane</a>
+                                                <a href="our-pastors.php">Albert Lane</a>
                                             </span>
                                         </h3>
                                         <div class="tm-text-center">In hac habitasse platea dictumst. Aliquam ullamcorper nunc nec pretium faucibus. Aenean semper lorem nisl,…</div>
@@ -1142,7 +1166,7 @@ only say the word and my servant will be healed."
                                         </p>
                                         <h3 class="uk-panel-header">
                                             <span class="brackets">
-                                                <a href="our-pastors.html">Hazel Berry</a>
+                                                <a href="our-pastors.php">Hazel Berry</a>
                                             </span>
                                         </h3>
                                         <div class="tm-text-center">Aenean quis porta nisi. Duis ultricies lorem ut nisi vehicula, id malesuada ex facilisis. Donec…</div>
@@ -1157,7 +1181,7 @@ only say the word and my servant will be healed."
                                         </p>
                                         <h3 class="uk-panel-header">
                                             <span class="brackets">
-                                                <a href="our-pastors.html">Bessie Curtis</a>
+                                                <a href="our-pastors.php">Bessie Curtis</a>
                                             </span>
                                         </h3>
                                         <div class="tm-text-center">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin sodales,…</div>
@@ -1172,7 +1196,7 @@ only say the word and my servant will be healed."
                                         </p>
                                         <h3 class="uk-panel-header">
                                             <span class="brackets">
-                                                <a href="our-pastors.html">John Doe</a>
+                                                <a href="our-pastors.php">John Doe</a>
                                             </span>
                                         </h3>
                                         <div class="tm-text-center">Aenean dignissim accumsan dolor sed porttitor. Ut mollis ipsum dolor, quis maximus dolor vehicula sit…</div>
@@ -1187,7 +1211,7 @@ only say the word and my servant will be healed."
                                         </p>
                                         <h3 class="uk-panel-header">
                                             <span class="brackets">
-                                                <a href="our-pastors.html">Jack Daniels</a>
+                                                <a href="our-pastors.php">Jack Daniels</a>
                                             </span>
                                         </h3>
                                         <div class="tm-text-center">Nunc finibus laoreet elit. Suspendisse scelerisque, lorem at lacinia tempus, magna augue pulvinar massa, at…</div>
@@ -1197,7 +1221,7 @@ only say the word and my servant will be healed."
                             <a href="" data-uk-slideset-item="previous" class="tm-slideset-previous"></a>
                             <a href="" data-uk-slideset-item="next" class="tm-slideset-next"></a>
                         </div>
-                        <a href="testimonials.html" title="Testimonials" class="tm-button-center">All testimonials</a>
+                        <a href="testimonials.php" title="Testimonials" class="tm-button-center">All testimonials</a>
                     </div>
                 </div>
             </div>
