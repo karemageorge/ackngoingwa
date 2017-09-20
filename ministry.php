@@ -57,7 +57,7 @@
                                         </div>
                                         <div class="line"></div>
                                         <div>Integer erat tellus, mattis at odio sit amet, tincidunt feugiat nulla. Nam sit amet tellus bibendum, suscipit lorem in, rhoncus justo. Quisque eu pharetra magna, sit amet maximus eros. Fusce&hellip;</div>
-                                        <a href="blog-single.html" class="read-more">read more</a>
+                                        <a href="youth.php" class="read-more">read more</a>
                                     </div>
                                 </li>
                                 <li class="tm-post-list-block clearfix" style="padding: 20px;">
