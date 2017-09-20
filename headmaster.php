@@ -13,7 +13,7 @@
 					<!-- End adress widget area -->
 					<!-- Start top-logo widget area -->
 					<div class="uk-width-small-1-1 uk-width-medium-1-3 uk-width-large-1-3 uk-text-center">
-					    <a class="tm-logo" href="index.html"></a>
+					    <a class="tm-logo" href="index.php"></a>
 					</div>
 					<!-- End top-logo widget area -->
 					<!-- Start social-icons & search widget area -->
