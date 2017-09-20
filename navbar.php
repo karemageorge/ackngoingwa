@@ -110,7 +110,7 @@
 									</div>
 								</li>
 								<li>
-										<a href="#" class="">MINISTRY</a>
+										<a href="blog.php" class="">MINISTRY</a>
 									</li>
 									<li>
 										<a href="sermons.php" class="">SERMONS</a>
