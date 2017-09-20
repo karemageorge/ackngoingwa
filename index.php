@@ -493,7 +493,7 @@ only say the word and my servant will be healed."
     </section>
 </div>
 
-<div class="tm-top-e-box tm-light-bg">
+<!--<div class="tm-top-e-box tm-light-bg">
     <div class="uk-container uk-container-center">
         <section class="tm-top-e uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
             <div class="uk-width-1-1">
@@ -538,7 +538,7 @@ only say the word and my servant will be healed."
                                                 <!-- /.progress-bar -->
                                             </div>
                                             <!-- /.goal-progress -->
-                                            <div id="give-form-content-508" class="give-form-content-wrap">
+                                            <!--<div id="give-form-content-508" class="give-form-content-wrap">
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non pulvinar purus. Nunc elit metus, sollicitudin sed nunc sed, iaculis eleifend turpis. Fusce id placerat massa, vitae venenatis mi. Pellentesque sem eros, elementum et mauris sit amet, eleifend vehicula nisi. Nam non arcu dolor.</p>
                                             </div>
                                             <form id="give-form-508" class="give-form give-form_508" method="post">
@@ -560,9 +560,9 @@ only say the word and my servant will be healed."
                                                 </div>
                                                 <button type="button" class="give-btn give-btn-modal">Donate Now</button>
                                                 
-                                                <!-- the checkout fields are loaded into this-->
+                                                <!-- the checkout fields are loaded into this
                                             </form>
-                                            <!--end #give-form-508-->
+                                            //	end #give-form-508
                                         </div>
                                     </div>
                                 </div>
@@ -571,7 +571,7 @@ only say the word and my servant will be healed."
                     </div>
                </div>
 			</div>
-        </section>
+        </section>-->
     </div>
 </div>
 
@@ -961,6 +961,32 @@ only say the word and my servant will be healed."
                             <div class="uk-width-small-1-1 uk-width-medium-1-2 uk-pull-1-2 ">
                                 <a href="#" class="">
                                     <img src="./images/gall-img-0012.jpg" class="attachment-full wp-post-image" alt="gall-img-001" height="1340" width="2000">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+					<div class="uk-panel tm-location-widget" data-uk-scrollspy="{cls:'uk-animation-slide-right', repeat: true}">
+                        <div class="uk-grid tm-location-box uk-grid-collapse">
+                            <div class="uk-width-small-1-1 uk-width-medium-1-2  tm-location-infoblock">
+                                <h3 class="tm-location-title">
+                                    <a href="#">Church of la Santísima Trinidad</a>
+                                </h3>
+                                <div class="tm-location-info">
+                                    <p>
+                                        <i class="uk-icon-map-marker"></i>1800 Grand Ave, San Diego, CA 92109
+                                    </p>
+                                    <p>
+                                        <i class="uk-icon-phone"></i>(619) 555-9740
+                                    </p>
+                                    <p>
+                                        <i class="uk-icon-envelope">&nbsp;</i>
+                                        <a href="mailto:cutechurch@church.com">cutechurch@church.com</a>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="uk-width-small-1-1 uk-width-medium-1-2 ">
+                                <a href="#" class="">
+                                    <img src="./images/gall-img-013.jpg" class="attachment-full wp-post-image" alt="gall-img-013" height="1570" width="2000">
                                 </a>
                             </div>
                         </div>
