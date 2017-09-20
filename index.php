@@ -8,7 +8,17 @@
 
 <link href="css/theme.css" rel="stylesheet" type="text/css" />
 <link href="css/woocommerce.css" rel="stylesheet" type="text/css" />
+<link href="css/tribe-events-full.min.css" rel="stylesheet" type="text/css" />
+<link href="css/tribe-events-theme.min.css" rel="stylesheet" type="text/css" />
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<style>
+
+ul li{
+	display:inline;
+	align:center;
+}
+</style>
+
 </head>
 <body>
 
@@ -114,7 +124,8 @@
 <div class="tm-top-a-box tm-dark-pattern-bg">
     <div class="uk-container uk-container-center">
         <section class="tm-top-a uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
-            <div class="uk-width-1-1">
+            <div class="uk-width-3-4"><!-- -->
+		
                 <div class="uk-panel CountDownTimer">
                     <div id="countdowntimer-2-countdown" class="tminus_countdown" style="width:auto; height:auto;">
                         <div class="cutechurch-countdown omitweeks">
@@ -122,13 +133,17 @@
                                 <h1 class="tm-title tcenter">
                                     <span class="border">Upcoming Event</span>
                                 </h1>
+							
                                 <p>In sollicitudin, ipsum nec auctor malesuada, elit turpis fermentum odio, ac vestibulum dui risus non elit. Quisque varius ex arcu, vitae rhoncus justo lacinia ac. Stibulum dui risus non elit. Quisque varius ex arcu, vitae rhoncus justo lacinia ac. Stibulum dui risus non elit. Quisque varius ex arcu, vitae rhoncus justo lacinia ac.</p>
-                                <h4>
+                                
+								<h4>
+			             
                                     <span class="brackets">
                                         <a href="/" class="tm-color-line">Staff members meet</a>
                                     </span>
                                 </h4>
                                 <span class="date">02 June, 2015</span>
+			
                             </div>
                             <div id="countdowntimer-2-dashboard" class="cutechurch-dashboard">
                                 <div class="cutechurch-dash cutechurch-days_dash">
@@ -181,6 +196,52 @@
                     </div>
                 </div>
             </div>
+			<aside class="tm-sidebar-b uk-width-medium-1-4 tm-middle">
+            <div class="uk-panel CuteEventsSidebar">
+                <h3 class="uk-panel-title">Schedule</h3>
+                <div class="uk-grid tm-cat-event-sb-widget">
+                    <ul>
+                        <li class="">
+                            <div class="post-date">
+                                <div class="day">
+                                    <span>12</span>
+                                    <p>May</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <h5><a href="#">I am going to send you what</a></h5>
+                                <p class="">Church of Jesus Christ</p>
+                                <p class="">12 May&#32;8:30 am&#32;-&#32;5:00 pm</p>
+                                <div class="duration"></div>
+                            </div>
+                            <div class="clr"></div>
+                        </li>
+                        <li class="">
+                            <div class="post-date">
+                                <div class="day">
+                                    <span>15</span>
+                                    <p>Jun</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <h5><a href="#">Child Dedications</a></h5>
+                                <p class="">Bethlehem Church</p>
+                                <p class="">15 Jun&#32;8:00 am&#32;-&#32;5:00 pm</p>
+                                <div class="duration"></div>
+                            </div>
+                            <div class="clr"></div>
+                        </li></br>
+                        <li class="">
+						<div class ="uk-width-1-1 tm-middle">
+						<a href="event-list.html" rel="bookmark" class="tm-event-widget-button">All Events</a>
+						</div></li>
+                    </ul>
+                </div>
+				
+            </div>
+           
+        </aside>
+			
         </section>
     </div>
 </div>
@@ -292,8 +353,7 @@
                 					Praesent lobortis, tellus vel placerat iaculis, neque leo tempus nisi, vitae gravida mi elit gravida…                                
                                     <a href="event.html" class="read-more" rel="bookmark">Read more</a>
                                 </div>
-                            </li>
-                        </ul>
+                         
                     </div>
                 	<a href="event-list.html" rel="bookmark" class="tm-event-widget-button">All Events</a>
                 </div>
@@ -610,6 +670,7 @@ only say the word and my servant will be healed."
     </section>
 </div>
 
+<!--Blog and fAQ section out
 <div class="tm-top-g-box tm-light-bg">
     <div class="uk-container uk-container-center">
         <section class="tm-top-g uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
@@ -791,7 +852,7 @@ only say the word and my servant will be healed."
             </div>
         </section>
     </div>
-</div>
+</div>-->
 
 <div class="uk-container uk-container-center"></div>
 

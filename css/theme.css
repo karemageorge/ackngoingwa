@@ -10123,7 +10123,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-  color: #30333f;
+  color: #aab6d8;
   -webkit-transition: color 0.5s;
   -moz-transition: color 0.5s;
   -o-transition: color 0.5s;
@@ -10244,16 +10244,19 @@ h6 a:hover {
   color: #f0f2f8;
 }
 .tm-light-bg {
-  background-color: #f0f2f8;
+  /*background-color: #f0f2f8;*/
+  background-color: #eeeeee;
 }
 .tm-light-bg {
-  color: #30333f;
+  /*color: #30333f;*/
+ color: #eeeeee;
 }
 .tm-dark-pattern-bg {
   color: #f0f2f8;
 }
 .tm-light-pattern-bg {
   color: #30333f;
+  
 }
 .tm-light-bg h1,
 .tm-light-bg h2,
