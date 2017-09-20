@@ -33,7 +33,7 @@ ul li{
 	                	<ul class="uk-slideshow uk-overlay-active">
 	                        <li aria-hidden="false" class="uk-cover uk-height-viewport  tm-wrap uk-active">
 	                        	<div class="uk-cover-background uk-position-cover"></div>
-	                        	<img src="./images/slider-img-07.jpg" alt="slider-img-04" class="aligncenter size-full wp-image-631" height="960" width="1920">
+	                        	<img src="./images/cologne.jpg" alt="slider-img-04" class="aligncenter size-full wp-image-631" height="960" width="1920">
 								<div class="uk-overlay-panel uk-overlay-right uk-overlay-slide-left uk-flex uk-flex-center uk-flex-middle uk-width-1-1">
 									<div class="uk-container uk-container-center tm-full-width">
 										<div class=" tm-wrap">
@@ -50,7 +50,7 @@ ul li{
 							</li>
 	                        <li aria-hidden="true" class="uk-cover uk-height-viewport tm-wrap">
 	                        	<div class="uk-cover-background uk-position-cover"></div>
-	                        	<img src="./images/slider-img-06.jpg" alt="slider-img-06" class="aligncenter size-full wp-image-630" height="960" width="1920">
+	                        	<img src="./images/cross.jpg" alt="slider-img-06" class="aligncenter size-full wp-image-630" height="960" width="1920">
 								<div class="uk-overlay-panel uk-overlay-right uk-overlay-slide-right uk-flex uk-flex-center uk-flex-middle uk-width-1-1">
 									<div class="uk-container uk-container-center tm-full-width">
 										<div class=" tm-wrap">
@@ -67,7 +67,7 @@ ul li{
 							</li>
 	                        <li aria-hidden="true" class="uk-cover uk-height-viewport tm-wrap">
 	                        	<div class="uk-cover-background uk-position-cover"></div>
-	                        	<img src="./images/slider-img-01.jpg" alt="slider-img-01" class="aligncenter size-full wp-image-629" height="960" width="1920">
+	                        	<img src="./images/florence.jpg" alt="slider-img-01" class="aligncenter size-full wp-image-629" height="960" width="1920">
 								<div class="uk-overlay-panel uk-overlay-right uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-width-1-1">
 									<div class="uk-container uk-container-center tm-full-width">
 										<div class=" tm-wrap">
@@ -84,7 +84,7 @@ ul li{
 							</li>
 	                		<li aria-hidden="true" class="uk-cover uk-height-viewport tm-wrap">
 	                			<div class="uk-cover-background uk-position-cover"></div>
-	                			<img src="./images/slider-img-04.jpg" alt="slider-img-05" class="aligncenter size-full wp-image-675" height="960" width="1920">
+	                			<img src="./images/hymnal.jpg" alt="slider-img-05" class="aligncenter size-full wp-image-675" height="960" width="1920">
 								<div class="uk-overlay-panel uk-overlay-right uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-width-1-1">
 									<div class="uk-container uk-container-center tm-full-width">
 										<div class=" tm-wrap">
@@ -100,8 +100,8 @@ ul li{
 								</div>
 							</li>
 	                        <li aria-hidden="true" class="uk-cover uk-height-viewport tm-wrap">
-	                        	<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAEOCAYAAABRmsRnAAACDUlEQVR4nO3BMQEAAADCoPVPbQo/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZep3AAEMQQcfAAAAAElFTkSuQmCC" alt='' style="width:100%;height:auto;">
-	                        	<iframe data-uk-cover="{}" style="pointer-events: none; width: 1583px; height: 891px;" class="uk-position-absolute" data-player-id="sw-1" src="http://www.youtube.com/embed/gPyn5ToPlFw?autoplay=1&amp;loop=1&amp;controls=0&amp;showinfo=0&amp;start=0&amp;playlist=FoRmhWxmj70&amp;wmode=transparent&amp;vq=hd1080&amp;enablejsapi=1&amp;api=1&amp;player_id=sw-1&amp;enablejsapi=1&amp;api=1" allowfullscreen="" height="270" width="480"></iframe>
+	                        	<img src="./images/praying.jpg" alt="slider-img-05" class="aligncenter size-full wp-image-675" height="960" width="1920">
+	                        	
 							</li>
 	                    </ul>
 	                    <a href="#" class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous" data-uk-slideshow-item="previous"></a>
