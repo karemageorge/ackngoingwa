@@ -109,6 +109,9 @@
 										</div>
 									</div>
 								</li>
+								<li>
+										<a href="blog.php" class="">MINISTRY</a>
+									</li>
 									<li>
 										<a href="sermons.php" class="">SERMONS</a>
 									</li>
