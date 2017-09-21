@@ -27,13 +27,13 @@
             </div>
             <div class="uk-width-1-1 uk-width-large-1-3">
             <div class="uk-panel widget_text">
-                <h3 class="uk-panel-title">Contact Us</h3><i class="uk-icon-home">&nbsp;</i>1800 Grand Ave, San Diego, CA 92109
+                <h3 class="uk-panel-title">Contact Us</h3><i class="uk-icon-home">&nbsp;</i>ACK St Stephens Ngoingwa
                 <br />
                 <i class="uk-icon-info-circle">&nbsp;</i>Sunday at 10:00 am, Wednesday at 6:00 pm
                 <br />
                 <i class="uk-icon-phone-square">&nbsp;</i>(619) 555-9740
                 <br />
-                <i class="uk-icon-envelope">&nbsp;</i>cute@church.com
+                <i class="uk-icon-envelope">&nbsp;</i>ackststephensngoingwa@church.com
                 <br />
             </div>
         </section>
@@ -48,7 +48,7 @@
             <div class="uk-width-1-1 uk-width-large-1-2">
                 <div class="uk-panel tm-p-medium  widget_text">
                     <div class="tm-text-left">
-                        © 2015 cutechurch. All rights reserved.
+                        © 2017 ACK St' Stephens Ngoingwa Church. All rights reserved.
                     </div>
                 </div>
             </div>
@@ -61,16 +61,7 @@
                             </li>
                             <li><a href="http://twitter.com/" target="_blank"><i class="uk-icon-twitter"></i></a>
                             </li>
-                            <li><a href="http://plus.google.com/" target="_blank"><i class="uk-icon-google-plus"></i></a>
-                            </li>
-                            <li><a href="http://www.linkedin.com" target="_blank"><i class="uk-icon-linkedin"></i></a>
-                            </li>
-                            <li><a href="http://www.youtube.com/" target="_blank"><i class="uk-icon-youtube"></i></a>
-                            </li>
-                            <li><a href="http://vk.com/" target="_blank"><i class="uk-icon-vk"></i></a>
-                            </li>
-                            <li><a href="http://instagram.com/" target="_blank"><i class="uk-icon-instagram"></i></a>
-                            </li>
+
                         </ul>
                     </div>
                 </div>
