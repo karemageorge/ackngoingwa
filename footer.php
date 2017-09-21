@@ -49,6 +49,7 @@
                 <div class="uk-panel tm-p-medium  widget_text">
                     <div class="tm-text-left">
                         © 2017 ACK St' Stephens Ngoingwa Church. All rights reserved.
+                           
                     </div>
                 </div>
             </div>
@@ -60,7 +61,8 @@
                             <li><a href="http://www.facebook.com" target="_blank"><i class="uk-icon-facebook-f"></i></a>
                             </li>
                             <li><a href="http://twitter.com/" target="_blank"><i class="uk-icon-twitter"></i></a>
-                            </li>
+                            </li>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" target="_blank"><em style= "font-size:8pt;"> site by: </em> &nbsp;<cop style="font-size:10pt;">Vanguard Technologies</cop></a>
+							
 
                         </ul>
                     </div>

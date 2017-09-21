@@ -113,7 +113,7 @@
                     </li>
                     <li><a href="http://twitter.com/" target="_blank"><i class="uk-icon-twitter"></i></a>
                     </li>
-                    <li><a href="http://plus.google.com/" target="_blank"><i class="uk-icon-google-plus"></i></a>
+                    <!--<li><a href="http://plus.google.com/" target="_blank"><i class="uk-icon-google-plus"></i></a>
                     </li>
                     <li><a href="http://www.linkedin.com" target="_blank"><i class="uk-icon-linkedin"></i></a>
                     </li>
@@ -122,7 +122,7 @@
                     <li><a href="http://vk.com/" target="_blank"><i class="uk-icon-vk"></i></a>
                     </li>
                     <li><a href="http://instagram.com/" target="_blank"><i class="uk-icon-instagram"></i></a>
-                    </li>
+                    </li>-->
                 </ul>
             </div>
         </aside>
