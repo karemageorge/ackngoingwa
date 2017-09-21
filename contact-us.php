@@ -42,7 +42,7 @@
 
 <div class="uk-container uk-container-center">
     <div class="uk-grid" data-uk-grid-match data-uk-grid-margin>
-        <div class="tm-main uk-width-medium-1-2 tm-middle">
+        <div class="tm-main uk-width-medium-2-3 tm-middle">
             <main class="tm-content">
                 <section>
                     <div data-uk-slider class="">
@@ -97,7 +97,7 @@
                 </section>
             </main>
         </div>
-        <aside class="tm-sidebar-b uk-width-medium-1-4 tm-middle">
+        <aside class="tm-sidebar-b uk-width-medium-1-3 tm-middle">
             <div class="uk-panel widget_text">
                 <h3 class="uk-panel-title">Contact Us</h3><i class="uk-icon-home">&nbsp;</i>1800 Grand Ave, San Diego, CA 92109
                 <br />
@@ -128,17 +128,17 @@
                 </ul>
             </div>
         </aside>
-				<aside class="tm-sidebar-b uk-width-medium-1-4 tm-middle">
-            <div class="uk-panel widget_text">
+		
+            <div class="uk-panel  uk-width-medium-1-1 tm-middle" style="padding-left:30px;padding-top:0;margin:0 auto;">
                 <h3 class="uk-panel-title">Visit Us</h3>
-				 <div class="uk-cover">
+				 <div class="uk-cover ">
 
-				 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.161485433378!2d37.03880132418133!3d-1.0396691127235147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f4eb355c648ff%3A0xe4c9579f52ffa688!2sACK+St+Stephen+Ngoingwa!5e0!3m2!1sen!2s!4v1505994572768" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+				 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.161485433378!2d37.03880132418133!3d-1.0396691127235147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f4eb355c648ff%3A0xe4c9579f52ffa688!2sACK+St+Stephen+Ngoingwa!5e0!3m2!1sen!2s!4v1505994572768" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 				
-    </div>
+				</div>
                 
             </div>
-        </aside>
+   
     </div>
 </div>
 
