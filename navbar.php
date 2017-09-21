@@ -24,7 +24,7 @@
 						<nav class="uk-navbar">
 							<!--tm-navbar (hide defolt styles) -->
 							<ul class="uk-navbar-nav uk-hidden-small">
-								<li class="uk-parent uk-active" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
+								<li class="uk-parent <?php if ($page =='home'){echo 'uk-active';}?>" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="index.php" class="">HOME</a>
 									<!--<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1">
 										<div class="uk-grid uk-dropdown-grid">
@@ -50,7 +50,7 @@
 										</div>
 									</div>-->
 								</li>
-								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
+								<li class="uk-parent  <?php if ($page =='about'){echo 'uk-active';}?>" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="about-us.php" class="">ABOUT US</a>
 									<!--<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-2">
 										<div class="uk-grid uk-dropdown-grid">
@@ -95,7 +95,7 @@
 										</div>
 									</div>-->
 								</li>
-								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
+								<li class="uk-parent <?php if ($page =='event'){echo 'uk-active';}?>" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 									<a href="event.php" class="">EVENT</a>
 									<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1">
 										<div class="uk-grid uk-dropdown-grid">
@@ -109,7 +109,7 @@
 										</div>
 									</div>
 								</li>
-								<li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
+								<li class="uk-parent <?php if ($page =='ministry'){echo 'uk-active';}?>" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
 										<a href="ministry.php" class="">MINISTRY</a>
 											<div style="" class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1">
 										<div class="uk-grid uk-dropdown-grid">
@@ -132,7 +132,7 @@
 										</div>
 									</div>
 									</li>
-									<li>
+									<li class="uk-parent <?php if ($page =='sermon'){echo 'uk-active';}?>">
 										<a href="sermons.php" class="">SERMONS</a>
 									</li>
 									<!-- <li class="uk-parent" data-uk-dropdown="{}" aria-haspopup="true" aria-expanded="false">
@@ -164,7 +164,7 @@
 									<li>
 										<a href="shop.html" class="">SHOP</a>
 									</li>-->
-									<li>
+									<li class="uk-parent  <?php if ($page =='contact'){echo 'uk-active';}?>">
 										<a href="contact-us.php" class="">CONTACT US</a>
 									</li>
 								</ul>						
