@@ -379,7 +379,7 @@ ul li{
                                 </div>
                          </li>
                     </div>
-                	<a href="event-list.php" rel="bookmark" class="tm-event-widget-button">All Events</a>
+                	
                 </div>
             </div>
         </section>
@@ -391,7 +391,9 @@ ul li{
         <section class="uk-grid-collapse tm-top-c uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
             <div class="uk-width-1-1">
                 <div class="uk-panel widget_text">
+
 					<img class="aligncenter size-full wp-image-317" src="./images/about.jpg" alt="img_010" width="1122" height="332" />
+
                     <h1 class="tm-title tm-text-center tm-p-top-medium" height="300">
                         <span class="border">About</span>
                     </h1>
