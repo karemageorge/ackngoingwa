@@ -354,7 +354,7 @@ ul li{
                                     <a href="event.php" class="read-more" rel="bookmark">Read more</a>
                                 </div>
                          </li>
-						 <li class="uk-width-small-1-1 uk-width-medium-1-1 tribe-events-list-widget-events hentry vevent type-tribe_events post-857 tribe-clearfix" style=" position:relative; width:100%; align:center;" >
+						 <li class="uk-width-small-1-1 uk-width-medium-1-1 tribe-events-list-widget-events hentry vevent type-tribe_events post-857 tribe-clearfix" style=" position:relative; width:98.6%; align:center;" >
                                 <div class="tribe-events-event-image">
                                     <a href="event.php">
                                         <img src="./images/1000-southaftrica.jpg" class="attachment-thumbnail wp-post-image" alt="EVENTS" height="330" width="198">
@@ -391,7 +391,7 @@ ul li{
         <section class="uk-grid-collapse tm-top-c uk-grid tm-xlarge-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
             <div class="uk-width-1-1">
                 <div class="uk-panel widget_text">
-					
+					<img class="aligncenter size-full wp-image-317" src="./images/about.jpg" alt="img_010" width="1122" height="332" />
                     <h1 class="tm-title tm-text-center tm-p-top-medium" height="300">
                         <span class="border">About</span>
                     </h1>
