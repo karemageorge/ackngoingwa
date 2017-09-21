@@ -9,6 +9,8 @@
 <link href="css/theme.css" rel="stylesheet" type="text/css" />
 <link href="css/woocommerce.css" rel="stylesheet" type="text/css" />
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+ <link rel="stylesheet" href="uikit.min.css" />
+  
 </head>
 <body>
 <?php $page ='contact'; include('headmaster.php')?>
@@ -40,7 +42,7 @@
 
 <div class="uk-container uk-container-center">
     <div class="uk-grid" data-uk-grid-match data-uk-grid-margin>
-        <div class="tm-main uk-width-medium-3-4 tm-middle">
+        <div class="tm-main uk-width-medium-1-2 tm-middle">
             <main class="tm-content">
                 <section>
                     <div data-uk-slider class="">
@@ -107,7 +109,7 @@
                 <br />
             </div>
             <div class="uk-panel widget_text">
-                <h3 class="uk-panel-title">Social icons</h3>
+                <h3 class="uk-panel-title">Social Forums</h3>
                 <ul class="social-icons">
                     <li><a href="http://www.facebook.com" target="_blank"><i class="uk-icon-facebook-f"></i></a>
                     </li>
@@ -124,6 +126,17 @@
                     <li><a href="http://instagram.com/" target="_blank"><i class="uk-icon-instagram"></i></a>
                     </li>-->
                 </ul>
+            </div>
+        </aside>
+				<aside class="tm-sidebar-b uk-width-medium-1-4 tm-middle">
+            <div class="uk-panel widget_text">
+                <h3 class="uk-panel-title">Visit Us</h3>
+				 <div class="uk-cover">
+
+				 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.161485433378!2d37.03880132418133!3d-1.0396691127235147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f4eb355c648ff%3A0xe4c9579f52ffa688!2sACK+St+Stephen+Ngoingwa!5e0!3m2!1sen!2s!4v1505994572768" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+				
+    </div>
+                
             </div>
         </aside>
     </div>
@@ -207,5 +220,6 @@
 <script type="text/javascript" src="js/components/grid.js"></script>
 <script type="text/javascript" src="js/components/sortable.js"></script>
 <script type="text/javascript" src="js/mail.js"></script>
+<script src="js/addons/cover.js"></script>
 </body>
 </html>

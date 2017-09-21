@@ -7,7 +7,7 @@
 					<!-- Start adress widget area -->
 					<div class="uk-width-small-1-1 uk-width-medium-1-3 uk-width-large-1-3 tm-text-left">
 						<div class=" uk-hidden-small tm-p-top-medium widget_text">
-							<i class="uk-icon-map-marker"></i> sijas,<br>Ngoingwa, Thika
+							<a href="https://goo.gl/maps/EHpHnMFnjgn" target="new"><i class="uk-icon-map-marker"></i> sijas,<br>Ngoingwa, Thika</a>
 						</div>
 					</div>
 					<!-- End adress widget area -->
