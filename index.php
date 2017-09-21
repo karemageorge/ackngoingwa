@@ -22,7 +22,7 @@ ul li{
 </head>
 <body>
 
-<?php include('headmaster.php')?>
+<?php $page='home'; include('headmaster.php')?>
 <div class="tm-slider-box tm-dark-bg">
 	<section class="tm-slider uk-grid tm-none-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
 	<!-- start full width -->
