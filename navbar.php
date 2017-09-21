@@ -102,6 +102,7 @@
 											<div class="uk-width-1-1">
 												<ul class="uk-nav uk-nav-navbar">
 													<li>
+													
 														<a href="event-list.php" class="">EVENT LIST</a>
 													</li>
 												</ul>

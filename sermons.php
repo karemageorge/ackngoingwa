@@ -10,7 +10,7 @@
 <link href="css/woocommerce.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-<?php $page ='sermon';include('headmaster.php')?>
+<?php $page='sermon';include('headmaster.php')?>
 <div class="tm-slider-box tm-light-bg">
     <section class="tm-slider uk-grid tm-none-padding" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin>
         <!-- start full width -->
@@ -52,7 +52,7 @@
 		                                </span>
                                         <div class="tm-post-text-block">
                                             <h3 class="uk-panel-header">
-                                            	<a href="sermon-single.html">A Biblical Case for Church Membership</a>
+                                            	<a href="sermon-single.php">A Biblical Case for Church Membership</a>
                                             </h3> Nunc tortor augue, sodales et molestie vitae, imperdiet nec mauris.&hellip; 
                                         </div>
                                     </div>
@@ -73,7 +73,7 @@
 	                                	</span>
                                         <div class="tm-post-text-block">
                                             <h3 class="uk-panel-header">
-                                            	<a href="sermon-single.html">An appeal to charismatic friends</a>
+                                            	<a href="sermon-single.php">An appeal to charismatic friends</a>
                                         	</h3> Nunc pretium diam molestie magna feugiat, ac malesuada urna maximus.&hellip; 	
                                     	</div>
                                     </div>
@@ -93,7 +93,7 @@
                                 			<img width="100" height="100" src="./images/img_testim_004.jpg" class="attachment-post-small-circular-thumbnails wp-post-image" alt="img_testim_004" />                            
                             			</span>
                                         <div class="tm-post-text-block">
-                                            <h3 class="uk-panel-header"><a href="sermon-single.html">All things are yours</a></h3> Nunc volutpat lorem quis porta blandit. Fusce eu viverra orci.&hellip; </div>
+                                            <h3 class="uk-panel-header"><a href="sermon-single.php">All things are yours</a></h3> Nunc volutpat lorem quis porta blandit. Fusce eu viverra orci.&hellip; </div>
                                     </div>
                                     <div class="uk-width-medium-3-10 uk-width-small-1-1 tm-post-button-block uk-text-center ">
                                         <a class="" href="https://www.youtube.com/watch?v=yZHWTNvYpcU" data-uk-lightbox><i class="uk-icon-video-camera"></i></a>
@@ -111,7 +111,7 @@
                                 			<img width="100" height="100" src="./images/img_testim_005.jpg" class="attachment-post-small-circular-thumbnails wp-post-image" alt="img_testim_005" />
 	                            		</span>
                                         <div class="tm-post-text-block">
-                                            <h3 class="uk-panel-header"><a href="sermon-single.html">Love the Lord Your God with All Your Heart</a></h3> Donec tincidunt blandit pharetra. Morbi sit amet orci vitae tortor&hellip; </div>
+                                            <h3 class="uk-panel-header"><a href="sermon-single.php">Love the Lord Your God with All Your Heart</a></h3> Donec tincidunt blandit pharetra. Morbi sit amet orci vitae tortor&hellip; </div>
                                     </div>
                                     <div class="uk-width-medium-3-10 uk-width-small-1-1 tm-post-button-block uk-text-center ">
                                         <a class="" href="https://www.youtube.com/watch?v=yZHWTNvYpcU" data-uk-lightbox><i class="uk-icon-video-camera"></i></a>
